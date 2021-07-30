@@ -11,13 +11,10 @@ I specialize in React.js, JavaScript, HTML5, and CSS3. I also have experience wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodscamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=react-componenets)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=css-grid)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=flexbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=js-bank-system)](https://github.com/anuraghazra/github-readme-stats)
+- Email: [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com "diegodscamara@gmail.com")
+- LinkedIn: https://www.linkedin.com/in/diegodscamara/ 
 
 
 
