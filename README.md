@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<diegodscamara>&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
