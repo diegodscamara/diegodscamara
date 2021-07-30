@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodscamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara&show_icons=true&theme=gradient)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodscamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=react-componenets)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=css-grid)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=flexbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=js-bank-system)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
