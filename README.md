@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Frontend Developer
+
+**I am a Front End developer with 4 years of experience building responsive, accessible, and scalable websites and web applications.
+I specialize in React.js, JavaScript, HTML5, and CSS3. I also have experience working with advertising, marketing, SEO, and knowledge in Git, User Interface Design(UI), User Experience (UX), and Agile Methodologies (Scrum).**
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodscamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
