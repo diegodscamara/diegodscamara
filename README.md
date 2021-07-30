@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodscamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara&show_icons=true&theme=gradient)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodscamara&repo=react-components)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
