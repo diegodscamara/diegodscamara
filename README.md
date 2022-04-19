@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I am a Front End developer with 4 years of experience building responsive, accessible, and scalable websites and web applications.
+I am a Front End developer with 2 years of experience building responsive, accessible, and scalable websites and web applications.
 
 I specialize in React.js, JavaScript, HTML5, and CSS3. I also have experience working with advertising, marketing, SEO, and knowledge in Git, User Interface Design(UI), User Experience (UX), and Agile Methodologies (Scrum).
 
