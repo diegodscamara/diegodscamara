@@ -6,8 +6,6 @@ I have a strong foundation in a range of programming languages and frameworks in
 
 I have experience integrating frontend systems with content management systems and working with both GraphQL and REST APIs. I am proficient in using code versioning tools such as Azure DevOps, GitFlow, GitHub, GitLab, and BitBucket, and have a strong understanding of project patterns and best practices.
 
-In my previous roles, I have successfully developed advanced and mobile websites and applications, consistently striving to deliver engaging and meaningful user experiences. I have a passion for design and am dedicated to continuously improving my skills and knowledge as a Front End Developer.
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara&show_icons=true&theme=gradient)
 
