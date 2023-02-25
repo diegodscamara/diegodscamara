@@ -2,9 +2,11 @@
 
 ## Frontend Developer
 
-I have a strong foundation in a range of programming languages and frameworks including ReactJS, NextJS, JavaScript, TypeScript, HTML, and CSS. I am skilled in utilizing design tools such as Figma to create visually appealing and user-friendly interfaces and am proficient in a variety of styling frameworks including Styled Components, TailwindCSS, Chakra UI, Sass, and Less.
+Hey there! I’m a Front End Developer who loves creating user-friendly interfaces using a variety of technologies and tools. My skills include ReactJS, NextJS, KnockoutJS, JavaScript, TypeScript, HTML, and CSS, as well as design tools like Figma and Adobe XD.
 
-I have experience integrating frontend systems with content management systems and working with both GraphQL and REST APIs. I am proficient in using code versioning tools such as Azure DevOps, GitFlow, GitHub, GitLab, and BitBucket, and have a strong understanding of project patterns and best practices.
+When it comes to options, I’m your go-to person for Styled Components, TailwindCSS, Chakra UI, Sass, Less, Bootstrap, Wordpress, and Elementor. I pride myself on my adaptability, which allows me to quickly switch gears and meet project needs.
+
+I’ve integrated frontend systems with content management systems and have experience working with both GraphQL and REST APIs. You can count on me to use code versioning tools such as Azure DevOps, GitFlow, GitHub, GitLab, and BitBucket.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodscamara&show_icons=true&theme=gradient)
