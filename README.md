@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Frontend Developer
-
 Front End Developer with 2+ years of experience creating user-friendly interfaces using ReactJS, NextJS, JavaScript, TypeScript, HTML, and CSS. Proficient in Figma for design. Skilled in seamlessly integrating frontend applications with backend systems through GraphQL and REST APIs, and well-versed in MongoDB, NodeJS, Express.js, and Jest. Familiarity with Scrum, Kanban, and Agile methodologies. Proactive team player with strong problem-solving and communication skills, dedicated to delivering innovative and impactful web solutions.
 
 
