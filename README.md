@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-Web Developer with over 3 years of experience in creating user-friendly interfaces using ReactJS, NextJS, JavaScript, TypeScript, HTML, and CSS. Proficient in using Figma for design. Skilled in integrating frontend applications with backend systems through GraphQL and REST APIs. Experienced in MongoDB, Node.js, Express.js, and Jest. Familiar with Scrum, Kanban, and Agile methodologies. A proactive team player with strong problem-solving and communication skills, dedicated to delivering innovative and impactful web solutions.
+Web Developer with over 4 years of experience in creating user-friendly interfaces using ReactJS, NextJS, JavaScript, TypeScript, HTML, and CSS. Proficient in using Figma for design. Skilled in integrating frontend applications with backend systems through GraphQL and REST APIs. Experienced in MongoDB, Node.js, Express.js, and Jest. Familiar with Scrum, Kanban, and Agile methodologies. A proactive team player with strong problem-solving and communication skills, dedicated to delivering innovative and impactful web solutions.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com)
