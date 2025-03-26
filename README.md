@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego
 =============================================================================================================================
 
-Web Developer and Designer
---------------------------
-
-Web Developer with over 4 years of experience in creating user-friendly interfaces using ReactJS, NextJS, JavaScript, TypeScript, HTML, and CSS. Proficient in using Figma for design. Skilled in integrating frontend applications with backend systems through GraphQL and REST APIs. Experienced in MongoDB, Node.js, Express.js, and Jest. Familiar with Scrum, Kanban, and Agile methodologies. A proactive team player with strong problem-solving and communication skills, dedicated to delivering innovative and impactful web solutions.
+Software Engineer with 4+ years of experience building scalable solutions using React, Node.js, TypeScript, Prisma, Cypress, and Jest.
+Architected an AI-powered RAG system for 53,000+ users, enhancing search efficiency with real-time translation and Q&A using Node.js,
+MongoDB, and Azure OpenAI. Optimized Azure CI/CD pipelines to improve reliability and reduce manual effort. Skilled in creating responsive,
+multilingual interfaces with React.js, SASS, and i18n. Experienced in healthcare, education, e-commerce, and security systems.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com)
