@@ -8,7 +8,7 @@ multilingual interfaces with React.js, SASS, and i18n. Experienced in healthcare
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [diegodscamara@gmail.com](mailto:diegodscamara@gmail.com)
-* 🧠  I'm learning C#, PowerShell, LLMS, AI, Azure DevOps
+* 🧠  I'm learning Python, C#, PowerShell, LLMS, AI, Azure DevOps
 * 🤝  I'm open to collaborating on AI, Figma, React, Open Source
 
 ### Skills
