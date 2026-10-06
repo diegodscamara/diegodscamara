@@ -6,8 +6,6 @@ Full-stack software engineer in São Paulo, Brazil. 5+ years shipping TypeScript
 
 **Now:** at [Luxor](https://luxor.tech), building the software that runs bitcoin mining fleets: firmware rollouts and fleet automation on Temporal, real-time dashboards on ClickHouse and PostgreSQL.
 
-**On the side:** [AdPilotPro](https://adpilotpro.com), an Amazon PPC automation SaaS. Rules adjust bids, negate wasted search terms and harvest winners, and every change is logged with its reason.
-
 ### Selected work
 
 - [Luxor Commander](https://luxor.tech/mining/commander): fleet management for bitcoin miners, covering telemetry, automation and firmware control.
